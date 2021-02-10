@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Elegant Media</string>
+    <string name="listView">List View</string>
+    <string name="details">Details</string>
+    <string name="imageDesc">Cat Image</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="delegantAssignment">Assignment</string>
+
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+</resources>
