@@ -26,5 +26,5 @@ Used Android Studio Arctic Fox Canary Version 4 to implement the application.
 MVVM Architecture is the base architecture. Used Hilt for the dependency injection. 
 
 <p align="center">
-<!--   <img src="https://github.com/SanushRadalage/ElegantMediaAssignment/blob/main/demo/demo.gif"> -->
+  <img src="https://github.com/SanushRadalage/ElegantMediaAssignment/blob/main/demo/demo.gif" width="200" height="400">
 </p>
